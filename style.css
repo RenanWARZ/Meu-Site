@@ -1,0 +1,35 @@
+#inicio a:hover{
+
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+
+}
+
+#inicio a{
+
+    text-decoration: none;
+}
+
+#inicio ol{
+
+    list-style: none;   
+}
+
+#contato a{
+
+    text-decoration: none;
+    
+}
+
+#contato{
+
+    list-style: none;
+   
+}
+
+#contato a:hover{
+
+    
+background-color: white;
+border-radius: 15px;
+}
